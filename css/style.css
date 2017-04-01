@@ -1,0 +1,92 @@
+body{
+	background: url(../images/lol.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+.login_form{
+width:700px;
+margin:0px auto;
+padding-top:20px;
+}
+#login{
+border-radius:0px;
+padding:35px 30px;
+font-size:16px;
+font-weight:bold;
+width:450px;
+margin-top:20px;
+margin-left: 13%;
+float:left;
+}
+h3{
+text-align:center;
+font-size:26px;
+}
+input{
+width:100%;
+height:28px;
+margin:15px 0 25px 0;
+border:1px solid #999;
+border-radius:7px;
+padding:5px;
+}
+input[type=button]{
+background-color:#123456;
+border:1px solid white;
+font-family: 'Fauna One', serif;
+font-Weight:bold;
+font-size:18px;
+color:white;
+}
+
+#btn1{
+width: 45%;
+height:33px;
+border:1px solid #999;
+border-radius:7px;
+padding:5px;
+}
+#btn2{
+margin-left: 40px;
+width: 45%;
+height:33px;
+border:1px solid #999;
+border-radius:7px;
+padding:5px;
+}
+
+/*PROFILE PAGE*/
+
+.profile_page{
+width:960px;
+margin:0px auto;
+padding-top:40px;
+}
+#profile{
+
+border-radius:2px;
+padding:35px 30px;
+font-size:16px;
+font-weight:bold;
+width:850px;
+margin-top:25px;
+float:left;
+}
+textarea{
+width:100%;
+height:80px;
+border:1px solid black;
+margin-top:5px;
+border-radius:3px;
+padding:5px;
+resize:none;
+
+}
+.text-center{
+	text-align: center;
+}
+.word-counter{
+	width: 50%;
+	margin-left: 25%;
+}
